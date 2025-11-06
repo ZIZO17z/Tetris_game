@@ -1,0 +1,5 @@
+D:\Programing_projects\DummiesV2\bin\Release\net9.0-windows\publish\DummiesV2.exe
+D:\Programing_projects\DummiesV2\bin\Release\net9.0-windows\publish\DummiesV2.dll
+D:\Programing_projects\DummiesV2\bin\Release\net9.0-windows\publish\DummiesV2.deps.json
+D:\Programing_projects\DummiesV2\bin\Release\net9.0-windows\publish\DummiesV2.runtimeconfig.json
+D:\Programing_projects\DummiesV2\bin\Release\net9.0-windows\publish\DummiesV2.pdb
